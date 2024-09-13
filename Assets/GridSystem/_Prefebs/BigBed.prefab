@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7887694506875882174}
   m_Layer: 0
-  m_Name: BidBed
+  m_Name: BigBed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
